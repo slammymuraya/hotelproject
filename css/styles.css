@@ -1,0 +1,35 @@
+body
+{
+    background-color: burlywood;
+}
+.pizza-inn
+{
+    background-image: url("../img/runda14.jpg");
+    visibility: visible;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no repeat;
+}    
+.pizza-flavour
+{
+color:gold;
+position:absolute;
+top: 45%;
+left: 20%;
+transform: translate(-50%-50%);
+text-align: center;
+}
+.form
+{
+display: block;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+border-radius: 2rem;
+border: none;
+outline: none;
+}  
+.product-list-item
+{
+float: left;
+}        
